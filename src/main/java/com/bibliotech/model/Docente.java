@@ -1,9 +1,9 @@
-package main.java.com.bibliotech.model;
+package com.bibliotech.model;
 
 public class Docente extends Socio {
 
     public Docente(int dni, String nombre, String email) {
-        super(dni, nombre, email):
+        super(dni, nombre, email);
     }
     @Override
     public int maxPrestamos() {

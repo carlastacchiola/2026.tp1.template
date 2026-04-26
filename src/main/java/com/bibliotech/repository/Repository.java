@@ -1,4 +1,4 @@
-package main.java.com.bibliotech.repository;
+package com.bibliotech.repository;
 
 import java.util.List;
 import java.util.Optional;

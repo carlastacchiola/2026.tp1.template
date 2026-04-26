@@ -1,6 +1,6 @@
-package main.java.com.bibliotech.repository;
+package com.bibliotech.repository;
 
-import main.java.com.bibliotech.model.Prestamo;
+import com.bibliotech.model.Prestamo;
 
 import java.util.List;
 import java.util.Optional;

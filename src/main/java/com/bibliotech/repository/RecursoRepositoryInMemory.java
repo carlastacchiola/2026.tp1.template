@@ -1,7 +1,7 @@
-package main.java.com.bibliotech.repository;
+package com.bibliotech.repository;
 
-import main.java.com.bibliotech.model.Categoria;
-import main.java.com.bibliotech.model.Recurso;
+import com.bibliotech.model.Categoria;
+import com.bibliotech.model.Recurso;
 
 import java.util.ArrayList;
 import java.util.List;
