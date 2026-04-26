@@ -1,7 +1,7 @@
-package main.java.com.bibliotech.exception;
+package com.bibliotech.exception;
 
 public class SocioNoEncontradoException extends BibliotecaException {
-    public RecursoNoEncontradoException(String mensaje) {
+    public SocioNoEncontradoException(String mensaje) {
         super(mensaje);
     }
 }

@@ -1,4 +1,4 @@
-package main.java.com.bibliotech.exception;
+package com.bibliotech.exception;
 
 public class LimitePrestamosException extends BibliotecaException {
     public LimitePrestamosException(String mensaje) {

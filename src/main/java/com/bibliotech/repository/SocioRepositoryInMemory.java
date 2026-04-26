@@ -1,6 +1,6 @@
-package main.java.com.bibliotech.repository;
+package com.bibliotech.repository;
 
-import main.java.com.bibliotech.model.Socio;
+import com.bibliotech.model.Socio;
 
 import java.util.ArrayList;
 import java.util.List;
